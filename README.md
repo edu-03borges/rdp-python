@@ -12,3 +12,5 @@
 
 **PYTHON**
 **TCP/IP**
+**HTML**
+**QT CREATOR**
